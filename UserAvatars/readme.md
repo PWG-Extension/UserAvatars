@@ -4,7 +4,7 @@
 
 **Расширение:**		Аватары пользователей
 
-**Описание:**		Отображает аватары пользователей, которые разместили последнее сообщение, на страницах «index» и «viewforum». А также отображает аватары на странице «memberlist» в списке пользователей.
+**Описание:**		Отображает аватары пользователей(которые разместили последнее сообщение) , на страницах «index» и «viewforum». А также отображает аватары на странице «memberlist» в списке пользователей.
 
 **Версия:**			1.0.0 / 17.04.2018
 
@@ -17,7 +17,7 @@
 
 **Extension:**		User Avatars
 
-**Description:**	Extension displays the avatars of the users who posted the last message on the «index» and «viewforum» pages. It also displays avatars on the «memberlist» page.
+**Description:**	Extension displays the avatars of users (who posted the last message), on the pages «index» & «viewforum». It also displays avatars on the «memberlist» page.
 
 **Version:**		1.0.0 / 04-17-2018
 
