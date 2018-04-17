@@ -1,8 +1,5 @@
 # User Avatars
 
-![Screenshot 1 of User Avatars](https://downloader.disk.yandex.ru/preview/b58e44b76984cdc173a29b0c36e55286c2ec3632e19f522d547fc4e180f2b109/5ad604c6/stiqGIFeNhpiLAWbgW36iI99xnyWRoFOro4jLDbLuI5Qv0iwrwYNv0X7rscXnNVcV-8sVIACloaU9tWRuiskdw%3D%3D?uid=0&filename=UserAvatars1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1920x1008)
-![Screenshot 2 of User Avatars](https://downloader.disk.yandex.ru/preview/f9a65bff451646f508c1efbc020fd6046ec6711baf3fcca051e88c6c2fb60a29/5ad604e9/stiqGIFeNhpiLAWbgW36iIdyG5R1jn6ijLA-OmMnp3yMaed6nPAW83c_4Bq6hl5xuttUtzKzw0jM3P2uRlXdjQ%3D%3D?uid=0&filename=UserAvatars2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1920x1008)
-***
 ### Русский:
 
 **Расширение:**		Аватары пользователей
@@ -31,3 +28,7 @@
 **Homepage:** https://github.com/PWG-Extension/UserAvatars
 
 © «PWG», Alexander Kadnikoff [Predator],  2018. All Rights Reserved.
+
+***
+![Screenshot 1 of User Avatars](https://downloader.disk.yandex.ru/preview/b58e44b76984cdc173a29b0c36e55286c2ec3632e19f522d547fc4e180f2b109/5ad604c6/stiqGIFeNhpiLAWbgW36iI99xnyWRoFOro4jLDbLuI5Qv0iwrwYNv0X7rscXnNVcV-8sVIACloaU9tWRuiskdw%3D%3D?uid=0&filename=UserAvatars1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1920x1008)
+![Screenshot 2 of User Avatars](https://downloader.disk.yandex.ru/preview/f9a65bff451646f508c1efbc020fd6046ec6711baf3fcca051e88c6c2fb60a29/5ad604e9/stiqGIFeNhpiLAWbgW36iIdyG5R1jn6ijLA-OmMnp3yMaed6nPAW83c_4Bq6hl5xuttUtzKzw0jM3P2uRlXdjQ%3D%3D?uid=0&filename=UserAvatars2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1920x1008)
