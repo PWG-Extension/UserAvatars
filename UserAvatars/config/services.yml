@@ -1,0 +1,9 @@
+services:
+    pwg.UserAvatars.listener:
+        class: pwg\UserAvatars\event\listener
+        arguments:
+            - @user
+            - @path_helper
+            - @dbal.conn
+        tags:
+            - { name: event.listener }

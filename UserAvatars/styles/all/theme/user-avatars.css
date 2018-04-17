@@ -1,0 +1,26 @@
+.lastpostavatar img { border: #999 solid 1px; display: inline-block; margin-right: 4px!important; float: left; width: 24px!important; height: 24px!important }
+.lastpostavatar img {
+	background: #eee;
+	background: -moz-linear-gradient(top, #eee 0%, #ccc 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eee), color-stop(100%,#ccc));
+	background: -webkit-linear-gradient(top, #eee 0%,#ccc 100%);
+	background: -o-linear-gradient(top, #eee 0%,#ccc 100%);
+	background: -ms-linear-gradient(top, #eee 0%,#ccc 100%);
+	background: linear-gradient(to bottom, #eee 0%,#ccc 100%);
+	padding: 1px;
+	margin: 0 0 10px 0;
+	max-width: 100%;
+  	width: auto;
+	-webkit-box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.3);
+	box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.3) }
+.lastpostavatar img:hover {
+	border: #356aa0 solid 1px;
+	background: #6d88b7;
+	background: -moz-linear-gradient(bottom, #b8c6df 0%, #6d88b7 100%);
+	background: -webkit-gradient(linear, left bottom, left bottom, color-stop(0%,#b8c6df), color-stop(100%,#6d88b7));
+	background: -webkit-linear-gradient(bottom, #b8c6df 0%,#6d88b7 100%);
+	background: -o-linear-gradient(bottom, #b8c6df 0%,#6d88b7 100%);
+	background: linear-gradient(to top, #b8c6df 0%,#6d88b7 100%) }
+.lastpostavatar img  { border-radius: 2px; -ms-border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px }
+.rtl .lastpostavatar img { margin-right: 5px!important; margin-left: 5px; float: right; width: 24px!important; height: 24px!important }
