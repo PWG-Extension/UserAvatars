@@ -27,6 +27,8 @@
 
 **Homepage:** https://github.com/PWG-Extension/UserAvatars
 
+**Live DEMO:** https://www.pwg-extension.ru/
+
 © «PWG», Alexander Kadnikoff [Predator],  2018. All Rights Reserved.
 
 ***
