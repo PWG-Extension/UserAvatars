@@ -6,11 +6,11 @@
     "keywords": ["PWG", "phpBB3", "extension", "user", "avatars"],
     "version": "1.0.0",
     "time": "17.04.2018",
-    "license": "GNU GPL-2.0",
+    "license": "GPL-2.0",
     "authors": [
         {
-            "name": "Alexander Kadnikoff [Predator]",
-            "homepage": "https://github.com/PWG-Extension",
+            "name": "Alexander Kadnikov",
+            "username": "Predator",
             "email": "None",
             "role": "Developer"
         }
