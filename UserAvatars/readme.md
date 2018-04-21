@@ -29,4 +29,4 @@
 
 **Live DEMO:** https://www.pwg-extension.ru/
 
-© «PWG», Alexander Kadnikoff [Predator],  2018. All Rights Reserved.
+© «PWG», Alexander Kadnikov [Predator],  2018. All Rights Reserved.
