@@ -25,8 +25,8 @@
 
 **Installation:**	Upload extension to the directory: **_root/ext/pwg/UserAvatars/_** Once the extension has been uploaded, navigate in the board's ACP to Customise -> Manage extensions.
 
-**Homepage:** https://github.com/PWG-Extension/UserAvatars
+**Homepage:** http://www.pwg-extension.ru/viewtopic.php?p=2#p2
 
-**Live DEMO:** http://www.pwg-extension.ru/
+**Live DEMO:** http://www.pwg-extension.ru/memberlist.php
 
 © «PWG», Alexander Kadnikov [Predator],  2018. All Rights Reserved.
