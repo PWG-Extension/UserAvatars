@@ -27,6 +27,6 @@
 
 **Homepage:** http://www.pwg-extension.ru/viewtopic.php?p=2#p2
 
-**Live DEMO:** http://www.pwg-extension.ru/memberlist.php
+**Live DEMO:** http://www.pwg-extension.ru/
 
 © «PWG», Alexander Kadnikov [Predator],  2018. All Rights Reserved.
