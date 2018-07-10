@@ -8,7 +8,7 @@
 
 **Версия:**			1.0.0 / 17.04.2018
 
-**Версия phpBB3:**	>=3.1.5, 3.2.*
+**Версия phpBB3:**	>=3.1.5 || 3.2.*
 
 **Установка:**		Распаковать в каталог: **_root/ext/pwg/UserAvatars/_** и активировать расширение в Админпанели Персонализация -> Управление расширениями.
 
@@ -21,7 +21,7 @@
 
 **Version:**		1.0.0 / 04-17-2018
 
-**Version phpBB3:**	>=3.1.5, 3.2.*
+**Version phpBB3:**	>=3.1.5 || 3.2.*
 
 **Installation:**	Upload extension to the directory: **_root/ext/pwg/UserAvatars/_** Once the extension has been uploaded, navigate in the board's ACP to Customise -> Manage extensions.
 
