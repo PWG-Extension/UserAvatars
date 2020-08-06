@@ -1,11 +1,11 @@
 {
     "name": "pwg/UserAvatars",
     "type": "phpbb-extension",
-    "description": "Extension displays the avatars of the users who posted the last message on the «index» and «viewforum» pages. It also displays avatars on the «memberlist» page.",
+    "description": "Extension displays the avatars of the users who posted the last message on the «index» and «viewforum» pages. It also displays avatars on the «memberlist» & «team» pages.",
     "homepage": "https://github.com/PWG-Extension/UserAvatars",
     "keywords": ["PWG", "phpBB3", "extension", "user", "avatars"],
-    "version": "1.0.0",
-    "time": "17.04.2018",
+    "version": "1.0.1",
+    "time": "06.08.2020",
     "license": "GPL-2.0",
     "authors": [
         {
@@ -24,7 +24,7 @@
     "extra": {
         "display-name": "User Avatars",
         "soft-require": {
-        "phpbb/phpbb": ">=3.1.5, 3.2.*"
+        "phpbb/phpbb": ">=3.1.5 || <=3.3.*"
         }
     }
 }
