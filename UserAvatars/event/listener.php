@@ -3,9 +3,9 @@
 +-------------------------------------------------------------------------------+
 |	Extension for phpBB3 Forum:	User Avatars									|
 +-------------------------------------------------------------------------------+
-|	Version:	1.0.0															|
+|	Version:	1.0.1															|
 |	Charset:	utf-8 without BOM												|
-|	Date:		17.04.2018 10:00:00												|
+|	Date:		06.08.2020 10:00:00												|
 |	License:	GNU General Public License v2									|
 |	Homepage:	https://github.com/PWG-Extension/UserAvatars					|
 |	Email:																		|
